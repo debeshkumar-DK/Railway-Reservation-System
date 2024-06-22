@@ -45,11 +45,3 @@ To run this project, ensure that you have the following prerequisites installed:
    ```
 
 6. Follow the on-screen instructions to navigate through the menu and perform various operations.
-
-
-## Acknowledgments
-
-Special thanks to the developers and contributors of the libraries, frameworks, and resources used in this project.
-
-If you have any questions or suggestions, please feel free to open an issue or contact the project maintainers.
- 
